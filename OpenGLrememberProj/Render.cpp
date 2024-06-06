@@ -694,8 +694,8 @@ void Render(OpenGL *ogl)
 	glColor3d(0.2, 0.7, 0.7);
 
 
-	//objModel.DrawObj();
-	sphere.DrawObj();
+	objModel.DrawObj();
+	//sphere.DrawObj();
 
 
 	
